@@ -5,6 +5,7 @@ channels:
 dependencies:
   - pip=22.0.4
   - python=3.10.4
+  - build=0.7.0
   - pip:
     - jupyter==1.0.0
     - pytest==7.1.1
