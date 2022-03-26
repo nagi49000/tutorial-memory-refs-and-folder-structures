@@ -1,0 +1,9 @@
+name: tutorial-mem-refs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=22.0.4
+  - python=3.10.4
+  - pip:
+    - jupyter==1.0.0
